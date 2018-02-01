@@ -2,7 +2,7 @@
 return array(
     'db.host' => 'localhost',
     'db.port' => 3306,
-    'db.username' => 'dht11',
-    'db.password' => 'Sil2d1TXlyAVhHqD',
-    'db.name' => 'dht11'
+    'db.username' => 'DHT11',
+    'db.password' => 'jpmU0jLaB9iVbm61',
+    'db.name' => 'DHT11'
 );
